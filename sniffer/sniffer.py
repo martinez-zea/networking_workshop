@@ -25,14 +25,15 @@ def parsePackets(d):
     payload = d.sprintf("%TCP.payload%")
     
     message = OSCMessage("/packet")
-    message.append("src", src)
-    message.append("sport", sport)
-    message.append("dst", dst)
-    message.append("dport", dport)
-    message.append("proto", proto)
-    message.append("payload", payload)
+    message.append(src)
+    message.append(sport)
+    message.append(dst)
+    message.append(dport)
+    message.append(proto)
+    message.append(payload)
     
     client.send(message)
     print "OSCmsg sent!"
 
 sniff(iface="wlan0", prn=lambda x: parsePackets(x))
+
