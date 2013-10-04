@@ -5,50 +5,9 @@
 # Comunicación en Red
 Transmisión de información de manera confiable y rápida entre dos puntos
 
-# Sistema de mensajería Inca
-
-## Sapa Inca
-![Atahualpa](img/Atahualpa_small.jpg)
-
-## Chasqui
-![](img/chasqui_small.jpg) 
-
-## Quipu
-![](img/quipu_small.jpg)
-
-## Diagrama de Red
-![](img/inca_network.svg)
-
-
-# Telegrafía
-
-## Semáforo
-![Error](img/Semaphore_Error.svg)
-
-## Señales de humo
-![](img/smoke_signal.jpg)
-
-## Heliógrafo
-![](img/heliograph.jpg)
-
-# Telégrafo Eléctrico
-## Jean-Antoine Nollet
-![](img/Nollet_11.JPG)
-
-## Claude Chappe
-![](img/chappe.jpg)
-
-## Telégrafo óptico
-![](img/Chappe_telegraph.png)
 
 ## Red
 ![](img/Chappe_network_small.png)
-
-## Morse
-![](img/morse.jpg)
-
-## Código Morse
-![](img/morse_code.svg)
 
 ## Telégrafo
 ![](img/Morse_telegraph.jpg)
@@ -149,11 +108,36 @@ traceroute to wikipedia.org (208.80.152.201), 30 hops max, 60 byte packets
 # Arquitectura
 ![](img/network-architecture1.jpg)
 
+
+
+# Topología de red
+
+## Como esta estructurada la red para el flujo de datos
+
+
+## Malla 
+![](img/mesh.png)
+
+## Estrella
+![](img/StarNetwork.svg)
+
+# Lecturas Recomendada
+
 # Protocolos
 
 ```
 	Grupo de recomendaciones y reglas que resumen una norma técnica especifico
 ```
+
+# Otros protocolos
+
+* HTTPS (Secure Hypertext Transfer Protocol)
+* FTP (File Transfer Protocol)
+* OSC (Open Sound Control)
+* IRC (Internet Relay Chat)
+* SSH (Secure Shell)
+* IMAP (Internet Message Access Protocol)
+
 
 # HTTP
 
@@ -214,28 +198,6 @@ GET, PUT, UPDATE, DELETE
 The server has not found anything matching the Request-URI.
 ```
 
-# Otros protocolos
-
-* HTTPS (Secure Hypertext Transfer Protocol)
-* FTP (File Transfer Protocol)
-* OSC (Open Sound Control)
-* IRC (Internet Relay Chat)
-* SSH (Secure Shell)
-* IMAP (Internet Message Access Protocol)
-
-
-# Topología de red
-
-## Como esta estructurada la red para el flujo de datos
-
-
-## Malla 
-![](img/mesh.png)
-
-## Estrella
-![](img/StarNetwork.svg)
-
-# Lecturas Recomendada
 
 * Standage, Tom. *The Victorian Internet : the remarkable story of the telegraph and the nineteenth centuryʼs on-line pioneers* / Tom Standage. n.p.: New York : Walker and Co., 1998., 1998.
 * Galloway, Alexander R. *Protocol : How Control Exists After Decentralization*. Cambridge, Mass: MIT Press, 2004.
