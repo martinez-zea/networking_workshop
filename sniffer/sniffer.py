@@ -1,4 +1,3 @@
-import sys
 from scapy.all import *
 from OSC import OSCMultiClient, OSCMessage
 
@@ -10,6 +9,7 @@ PORT = 12345
 client = OSCMultiClient()
 client.setOSCTarget(("localhost", PORT))
 
+#add more network targets
 #client.setOSCTargetFromStr('')
 
 print "sendig to: %s" % client.getOSCTargets()
@@ -27,6 +27,10 @@ def parsePackets(d):
     message = OSCMessage("/packet")
     message.append("src", src)
     message.append("sport", sport)
+    message.append("dst", dst)
+    message.append("dport", dport)
+    message.append("proto", proto)
+    message.append("payload", payload)
     
     client.send(message)
     print "OSCmsg sent!"
