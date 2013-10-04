@@ -1,6 +1,6 @@
-% Internet (Networking)
-% Gabriel Zea
-% Agosto 15 2013
+% Netwkorking
+% Camilo Martinez, Gabriel Zea
+% Septiembre 5 2013
 
 # Comunicación en Red
 Transmisión de información de manera confiable y rápida entre dos puntos
