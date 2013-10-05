@@ -4,16 +4,16 @@
 
 # Computador como Servidor (publico)
 
-*El computador es una maquina burocratica
-*Gestiona recursos y presta servicios
-*Se comunica mediante protocolos
+* El computador es una maquina burocratica
+* Gestiona recursos y presta servicios
+* Se comunica mediante protocolos
 
 ## Mainframe
 
-*Unidad de procesamiento de datos
-*Varios usuarios tienen que compartir el mismo recurso
-*Tiempo compartido
-*asignacion de prioridades
+* Unidad de procesamiento de datos
+* Varios usuarios tienen que compartir el mismo recurso
+* Tiempo compartido
+* asignacion de prioridades
 
 ## Programa Informatico
 
