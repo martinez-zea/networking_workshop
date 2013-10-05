@@ -2,9 +2,26 @@
 % Camilo Martinez, Gabriel Zea
 % Septiembre 5 2013
 
+# Computador como Servidor (publico)
+
+## Mainframe
+
+![](img/mark_01.png)    
+
+## Programa Informatico
+![](img/tarjeta.png)
+
+## Lote de Programas
+![](img/lote.png) 
+
+## Amazing Grace
+![](img/hopper.png)
+
+## Computer Bug
+![](img/bug.png)
+
 # Comunicación en Red
 Transmisión de información de manera confiable y rápida entre dos puntos
-
 
 ## Red
 ![](img/Chappe_network_small.png)
@@ -18,21 +35,10 @@ Transmisión de información de manera confiable y rápida entre dos puntos
 ## Cable Submarino
 ![](img/submarine_cable.png)
 
-## Cifrado
-![](img/tc07.gif)
-
-## Enigma
-![](img/enigma.jpg)
-
 # Internet
 ## Inicio
 ![](img/firstmapoftheinternet.jpg)
 
-## Paquetes
-![](img/wikipedia_packet.png)
-
-## Conmutación de Paquetes (packet switching)
-![TCP](img/tcpip.gif)
 
 ## wikipedia.org
 ![](img/wikipedia_connection.png)
@@ -42,6 +48,18 @@ Transmisión de información de manera confiable y rápida entre dos puntos
 
 ## Evolución
 ![1977](img/arpanet_1977.png)
+
+## Paquetes
+![](img/wikipedia_packet.png)
+
+## Conmutación de Paquetes (packet switching)
+![TCP](img/tcpip.gif)
+
+## Cifrado
+![](img/tc07.gif)
+
+## Enigma
+![](img/enigma.jpg)
 
 # IP (Internet Protocol Address)
 
@@ -109,7 +127,6 @@ traceroute to wikipedia.org (208.80.152.201), 30 hops max, 60 byte packets
 ![](img/network-architecture1.jpg)
 
 
-
 # Topología de red
 
 ## Como esta estructurada la red para el flujo de datos
@@ -121,7 +138,6 @@ traceroute to wikipedia.org (208.80.152.201), 30 hops max, 60 byte packets
 ## Estrella
 ![](img/StarNetwork.svg)
 
-# Lecturas Recomendada
 
 # Protocolos
 
@@ -198,6 +214,7 @@ GET, PUT, UPDATE, DELETE
 The server has not found anything matching the Request-URI.
 ```
 
+# Lecturas Recomendada
 
 * Standage, Tom. *The Victorian Internet : the remarkable story of the telegraph and the nineteenth centuryʼs on-line pioneers* / Tom Standage. n.p.: New York : Walker and Co., 1998., 1998.
 * Galloway, Alexander R. *Protocol : How Control Exists After Decentralization*. Cambridge, Mass: MIT Press, 2004.
