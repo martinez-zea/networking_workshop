@@ -28,6 +28,12 @@
 * Agrupacion por lotes
 * Infraestructura fisica de almacenamiento (sistema de archivos)
 
+## Terminal
+
+* Dispositivo fisico, podia ser remoto ( red )
+* Canal de entrada de Informacion
+* No siempre fue interactiva
+
 ## Amazing Grace
 
 * Seres humanos realizando trabajo maquinico
@@ -81,8 +87,11 @@
 * Estructura modular, independiente del contenido
 * Inclusion de metadata ( origen, destinatario )
 * Inspirada en el correo fisico
+* Encapsulamiento
+* Informacion ( finalmente leida por humanos) + Meta informacion ( leida por maquinas )
 
 ## Conmutación de Paquetes (packet switching)
+
 
 ## Cifrado
 
