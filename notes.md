@@ -34,6 +34,9 @@
 * Canal de entrada de Informacion
 * No siempre fue interactiva
 
+* Intro a la terminal
+* cd, ls, man
+
 ## Amazing Grace
 
 * Seres humanos realizando trabajo maquinico
@@ -122,6 +125,8 @@
     to routes.
 ```
 
+* ip addr | ifconfig
+
 ## RFC 791
 
 
@@ -129,9 +134,16 @@
 
 ## Domain Name
 
+* whois
+
 ## Árbol DNS
 
+* host
+* traceroute
+
 ## Ping
+
+* ping
 
 ## An address indicates where it is
 
@@ -143,6 +155,7 @@
 
 # Arquitectura
 
+* nmap -sP "*.*.*"
 
 # Topología de red
 
@@ -169,6 +182,8 @@
 * SSH (Secure Shell)
 * IMAP (Internet Message Access Protocol)
 
+* ssh / ftp
+
 
 # HTTP
 
@@ -191,6 +206,8 @@
 ```
 	 http_URL = "http:" "//" host [ ":" port ] [ abs_path [ "?" query ]]
 ```
+
+* CURL!
 
 ## Métodos
 ```
