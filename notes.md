@@ -101,6 +101,18 @@
 # IP (Internet Protocol Address)
 
 
+```
+    A distinction is made between names, addresses, and routes.   A
+    name indicates what we seek.  An address indicates where it is.  A
+    route indicates how to get there.  The internet protocol deals
+    primarily with addresses.  It is the task of higher level (i.e.,
+    host-to-host or application) protocols to make the mapping from
+    names to addresses.   The internet module maps internet addresses to
+    local net addresses.  It is the task of lower level (i.e., local net
+    or gateways) procedures to make the mapping from local net addresses
+    to routes.
+```
+
 ## RFC 791
 
 
@@ -113,6 +125,7 @@
 ## Ping
 
 ## An address indicates where it is
+
 
 ## IP
 

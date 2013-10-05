@@ -14,6 +14,9 @@
 ## Lote de Programas
 ![](img/lote.png) 
 
+## Terminal
+![](img/terminal.png)
+
 ## Amazing Grace
 ![](img/hopper.png)
 
