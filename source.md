@@ -12,7 +12,7 @@
 ![](img/tarjeta.png)
 
 ## Lote de Programas
-![](img/lote.png) 
+![](img/lote_tarjetas.png) 
 
 ## Amazing Grace
 ![](img/hopper.png)
@@ -21,7 +21,9 @@
 ![](img/bug.png)
 
 # Comunicación en Red
-Transmisión de información de manera confiable y rápida entre dos puntos
+
+## .
+*Transmisión de información de manera confiable y rápida entre dos puntos*
 
 ## Red
 ![](img/Chappe_network_small.png)
