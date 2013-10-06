@@ -35,5 +35,5 @@ def parsePackets(d):
     client.send(message)
     print "OSCmsg sent!"
 
-sniff(iface="wlan0", prn=lambda x: parsePackets(x))
+sniff(prn=lambda x: parsePackets(x))
 
