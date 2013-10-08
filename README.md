@@ -11,6 +11,14 @@ Material para el taller de [mz](http://martinez-zea.info) en el [Coloqio de Arte
 * [Olia Lialina, Summer](http://www.evan-roth.com/olia/summer/)
 * [RSG, Carnivore](https://github.com/RSG/Carnivore)
 
+# Terminal
+Durante el taller presentamos *muy* rapidamente algunos usos de la terminal, en los siguientes links pueden encontrar
+algunos tutoriales que muestran como trabajar con el Terminal el Mac:
+
+* [40 tips](http://mac.tutsplus.com/tutorials/terminal/40-terminal-tips-and-tricks-you-never-thought-you-needed/)
+* [10 mas :)](http://mac.tutsplus.com/tutorials/terminal/10-terminal-commands-that-every-mac-user-should-know/)
+
+
 # Sniffer
 Sniffer intercepta todas las interfaces de red, escuchando todo el tráfico para encapsularlo y enviarlo vía OSC. 
 Para ejecutarlo es necesario tener todas las dependencias instaladas en el sistema y hacerlo con permisos de administrador,
