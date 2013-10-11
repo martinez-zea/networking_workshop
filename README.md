@@ -10,6 +10,7 @@ Material para el taller de [mz](http://martinez-zea.info) en el [Coloqio de Arte
 * [Eva & Franco Mates, Justice is not available](http://0100101110101101.org/justice-is-not-available/)
 * [Olia Lialina, Summer](http://www.evan-roth.com/olia/summer/)
 * [RSG, Carnivore](https://github.com/RSG/Carnivore)
+* [Police State, Jonah Brucker-Cohen](https://www.youtube.com/watch?v=B4cOJrgBYrg)
 
 # Terminal
 Durante el taller presentamos *muy* rapidamente algunos usos de la terminal, en los siguientes links pueden encontrar
